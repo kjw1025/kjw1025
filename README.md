@@ -25,6 +25,8 @@
 ✉️ ***Contact*** <br>
   gmail : art.1025p@gmail.com
   
+  https://www.figma.com/file/P8bT6nO6fobn0cBvG4gQ3M/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4?node-id=0%3A1
+  
 <hr>
 📜 My GitHub status 📜
   
