@@ -20,6 +20,8 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+  
+### 
 
   
 ✉️ ***Contact*** <br>
@@ -37,6 +39,8 @@
   
   Portfolio 🌱 <br>
   📫 제 기록 이 담긴 포트폴리오 입니다!
+  
+  <img src="https://kjw1025.github.io/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
   
   https://kjw1025.github.io/
   
