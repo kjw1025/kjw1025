@@ -2,6 +2,10 @@
 
 
 ## :star: KW :star2:
+  
+### Portfolio 🌱 <br>
+📫 제 기록 이 담긴 포트폴리오 입니다!
+  <a href="https://kjw1025.github.io/" target="_blank">![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-1572B6.svg?&style=for-the-badge&logo=PORTFOLIO&logoColor=fff)</a>
 
 ### 🛠️ my skill 🛠️
 <!-- <img src="https://img.shields.io/badge/이름-색상코드?style=flat-square&logo=로고명&logoColor=로고색"/> -->
@@ -36,11 +40,6 @@
 <!--   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kjw1025)](https://github.com/kjw1025/github-readme-stats) -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kjw1025&show_icons=true&theme=dark)
   
-  
-  Portfolio 🌱 <br>
-  📫 제 기록 이 담긴 포트폴리오 입니다!
-  
-  <a href="https://kjw1025.github.io/" target="_blank">![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-1572B6.svg?&style=for-the-badge&logo=PORTFOLIO&logoColor=fff)</a>
   
 
 
