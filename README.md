@@ -40,9 +40,7 @@
   Portfolio 🌱 <br>
   📫 제 기록 이 담긴 포트폴리오 입니다!
   
-  <img src="https://kjw1025.github.io/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-  
-  https://kjw1025.github.io/
+  <a href=" https://kjw1025.github.io/" target="_blank">![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-1572B6.svg?&style=for-the-badge&logo=PORTFOLIO&logoColor=fff)</a>
   
 
 
