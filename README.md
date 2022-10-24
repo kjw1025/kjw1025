@@ -4,7 +4,7 @@
 ## :star: KW :star2:
   
 ### Portfolio 🌱 <br>
-📫 제 기록 이 담긴 포트폴리오 입니다!
+📫 제 기록 이 담긴 포트폴리오 입니다! <br>
   <a href="https://kjw1025.github.io/" target="_blank">![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-1572B6.svg?&style=for-the-badge&logo=PORTFOLIO&logoColor=fff)</a>
 
 ### 🛠️ my skill 🛠️
@@ -25,7 +25,9 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
   
-### 
+### 📚 studying 📚
+  
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
 
   
 ✉️ ***Contact*** <br>
